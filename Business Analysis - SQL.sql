@@ -1,11 +1,11 @@
--- Data Types
--- int (1,2,3,4)
---float(12.3,12,6)
+--Data Types
+--int (1,2,3,4)
+--float(12.3,12.6)
 --char = var123demo // limited size
 --varchar = var123 //no limitation in the sizedemo 
 
 
--- create tables
+--create tables
 --insert valuesdemo
 --extract and analyze
 
@@ -13,7 +13,7 @@
 --create table customers (name varchar, surname varchar, age int);
 
 --insert into <table name> VALUES (value1, value2, value3);
---insert into customers values ('krish', 'gupta', 30);
+--insert into CUSTOMERS VALUES ('Krish', 'Gupta', 30);
 --insert into CUSTOMERS VALUES ('Neeru', "Sharma", 50);
 --insert into CUSTOMERS VALUES ('Farhan', "Mohd", 26);
 --insert into CUSTOMERS VALUES ('Simran', "Singh", 35);
