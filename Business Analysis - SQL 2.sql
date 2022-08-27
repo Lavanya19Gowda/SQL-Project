@@ -34,7 +34,7 @@
 
 --Dataset - imdb 
 
---Q7. top 5 directors having rating more then average?
+--Q7. top 5 directors having rating more than average?
 --Select director, actors, rating from imdb where rating > (SELECT avg(rating) from imdb) order by rating limit "5";
 
 --Group BY
